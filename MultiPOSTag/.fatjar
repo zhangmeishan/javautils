@@ -1,0 +1,14 @@
+#Fat Jar Configuration File
+#Thu Aug 27 16:33:19 CST 2015
+onejar.license.required=true
+manifest.classpath=
+manifest.removesigners=true
+onejar.checkbox=false
+jarname=Split2SinglePOSTagFeat.jar
+manifest.mergeall=true
+manifest.mainclass=feat.Split2SinglePOSTagFeat
+manifest.file=<createnew>
+jarname.isextern=false
+onejar.expand=
+excludes=
+includes=

@@ -1,0 +1,14 @@
+#Fat Jar Configuration File
+#Fri Nov 21 16:23:16 CST 2014
+onejar.license.required=true
+manifest.classpath=
+manifest.removesigners=true
+onejar.checkbox=false
+jarname=JointPOSSEG.jar
+manifest.mergeall=true
+manifest.mainclass=microblog.Main
+manifest.file=<createnew>
+jarname.isextern=false
+onejar.expand=
+excludes=
+includes=

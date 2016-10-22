@@ -1,0 +1,14 @@
+#Fat Jar Configuration File
+#Thu Oct 15 15:39:57 CST 2015
+onejar.license.required=true
+manifest.classpath=
+manifest.removesigners=true
+onejar.checkbox=false
+jarname=CharDependencyEvaluate.jar
+manifest.mergeall=true
+manifest.mainclass=acl2014.CharDependencyEvaluate
+manifest.file=<createnew>
+jarname.isextern=false
+onejar.expand=
+excludes=
+includes=

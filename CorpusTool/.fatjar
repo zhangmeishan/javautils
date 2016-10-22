@@ -1,0 +1,14 @@
+#Fat Jar Configuration File
+#Thu Mar 03 10:30:56 CST 2016
+onejar.license.required=true
+manifest.classpath=
+manifest.removesigners=true
+onejar.checkbox=false
+jarname=RemoveWordEmbCol.jar
+manifest.mergeall=true
+manifest.mainclass=mason.corpus.tool.RemoveWordEmbCol
+manifest.file=<createnew>
+jarname.isextern=false
+onejar.expand=
+excludes=
+includes=

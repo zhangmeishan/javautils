@@ -1,0 +1,7 @@
+/.metadata
+/*/bin
+/*/obj
+/*/dist
+/*.class
+*.o
+/*/.settings

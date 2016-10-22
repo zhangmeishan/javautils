@@ -1,0 +1,14 @@
+#Fat Jar Configuration File
+#Sun Feb 01 09:18:05 CST 2015
+onejar.license.required=true
+manifest.classpath=
+manifest.removesigners=true
+onejar.checkbox=false
+jarname=EvaluateTextRSTStrucuture.jar
+manifest.mergeall=true
+manifest.mainclass=corpus.EvaluateTextRSTStrucuture
+manifest.file=<createnew>
+jarname.isextern=false
+onejar.expand=
+excludes=
+includes=

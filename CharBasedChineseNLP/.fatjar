@@ -1,0 +1,14 @@
+#Fat Jar Configuration File
+#Wed Dec 09 10:20:24 CST 2015
+onejar.license.required=true
+manifest.classpath=
+manifest.removesigners=true
+onejar.checkbox=false
+jarname=CLT2RawSent.jar
+manifest.mergeall=true
+manifest.mainclass=acl2013.CLT2RawSent
+manifest.file=<createnew>
+jarname.isextern=false
+onejar.expand=
+excludes=
+includes=

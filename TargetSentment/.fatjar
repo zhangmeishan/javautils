@@ -1,0 +1,14 @@
+#Fat Jar Configuration File
+#Thu Aug 13 12:31:42 CST 2015
+onejar.license.required=true
+manifest.classpath=
+manifest.removesigners=true
+onejar.checkbox=false
+jarname=EvaluateTargetSentment.jar
+manifest.mergeall=true
+manifest.mainclass=corpus.EvaluateLabelers
+manifest.file=<createnew>
+jarname.isextern=false
+onejar.expand=
+excludes=
+includes=

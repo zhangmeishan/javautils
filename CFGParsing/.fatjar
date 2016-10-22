@@ -1,0 +1,14 @@
+#Fat Jar Configuration File
+#Thu Jan 22 10:37:22 CST 2015
+onejar.license.required=true
+manifest.classpath=
+manifest.removesigners=true
+onejar.checkbox=false
+jarname=ExtractCSYields.jar
+manifest.mergeall=true
+manifest.mainclass=process.ExtractCSYields
+manifest.file=<createnew>
+jarname.isextern=false
+onejar.expand=
+excludes=
+includes=

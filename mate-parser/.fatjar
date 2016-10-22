@@ -1,0 +1,14 @@
+#Fat Jar Configuration File
+#Fri Nov 14 12:45:32 CST 2014
+onejar.license.required=true
+manifest.classpath=
+manifest.removesigners=true
+onejar.checkbox=false
+jarname=mate-parser.jar
+manifest.mergeall=true
+manifest.mainclass=is2.parser.Parser
+manifest.file=<createnew>
+jarname.isextern=false
+onejar.expand=
+excludes=
+includes=

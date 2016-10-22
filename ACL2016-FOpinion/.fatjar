@@ -1,0 +1,14 @@
+#Fat Jar Configuration File
+#Sat Feb 13 22:16:26 CST 2016
+onejar.license.required=true
+manifest.classpath=
+manifest.removesigners=true
+onejar.checkbox=false
+jarname=Martins2Dep.jar
+manifest.mergeall=true
+manifest.mainclass=corpus.martins.Martins2Dep
+manifest.file=<createnew>
+jarname.isextern=false
+onejar.expand=
+excludes=
+includes=
